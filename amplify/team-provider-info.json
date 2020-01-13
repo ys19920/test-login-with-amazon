@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-testapp-dev-02118-authRole",
+            "UnauthRoleArn": "arn:aws:iam::172051591518:role/amplify-testapp-dev-02118-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::172051591518:role/amplify-testapp-dev-02118-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-testapp-dev-02118-deployment",
+            "UnauthRoleName": "amplify-testapp-dev-02118-unauthRole",
+            "StackName": "amplify-testapp-dev-02118",
+            "StackId": "arn:aws:cloudformation:us-east-1:172051591518:stack/amplify-testapp-dev-02118/8bc50af0-35c4-11ea-8ffc-0ef7f3f34731",
+            "AmplifyAppId": "d157jxz983yku5"
+        },
+        "categories": {
+            "auth": {
+                "testapp6c1dca01": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amzn1.application-oa2-client.32feeb552bd749bcb5bc7318be03e129\",\"client_secret\":\"30d17f1d1fd4ac6cd2fbf802e7cfd75cae789fc7f932c362ec16156a63c87dbe\"}]"
+                }
+            }
+        }
+    }
+}
